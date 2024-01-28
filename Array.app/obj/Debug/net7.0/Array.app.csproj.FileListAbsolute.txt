@@ -1,0 +1,15 @@
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\Array.app\bin\Debug\net7.0\Array.app.exe
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\Array.app\bin\Debug\net7.0\Array.app.deps.json
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\Array.app\bin\Debug\net7.0\Array.app.runtimeconfig.json
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\Array.app\bin\Debug\net7.0\Array.app.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\Array.app\bin\Debug\net7.0\Array.app.pdb
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\Array.app\obj\Debug\net7.0\Array.app.csproj.AssemblyReference.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\Array.app\obj\Debug\net7.0\Array.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\Array.app\obj\Debug\net7.0\Array.app.AssemblyInfoInputs.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\Array.app\obj\Debug\net7.0\Array.app.AssemblyInfo.cs
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\Array.app\obj\Debug\net7.0\Array.app.csproj.CoreCompileInputs.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\Array.app\obj\Debug\net7.0\Array.app.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\Array.app\obj\Debug\net7.0\refint\Array.app.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\Array.app\obj\Debug\net7.0\Array.app.pdb
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\Array.app\obj\Debug\net7.0\Array.app.genruntimeconfig.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\Array.app\obj\Debug\net7.0\ref\Array.app.dll

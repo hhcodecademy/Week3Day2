@@ -1,0 +1,15 @@
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\RegionApp\bin\Debug\net7.0\RegionApp.exe
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\RegionApp\bin\Debug\net7.0\RegionApp.deps.json
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\RegionApp\bin\Debug\net7.0\RegionApp.runtimeconfig.json
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\RegionApp\bin\Debug\net7.0\RegionApp.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\RegionApp\bin\Debug\net7.0\RegionApp.pdb
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\RegionApp\obj\Debug\net7.0\RegionApp.csproj.AssemblyReference.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\RegionApp\obj\Debug\net7.0\RegionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\RegionApp\obj\Debug\net7.0\RegionApp.AssemblyInfoInputs.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\RegionApp\obj\Debug\net7.0\RegionApp.AssemblyInfo.cs
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\RegionApp\obj\Debug\net7.0\RegionApp.csproj.CoreCompileInputs.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\RegionApp\obj\Debug\net7.0\RegionApp.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\RegionApp\obj\Debug\net7.0\refint\RegionApp.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\RegionApp\obj\Debug\net7.0\RegionApp.pdb
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\RegionApp\obj\Debug\net7.0\RegionApp.genruntimeconfig.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\RegionApp\obj\Debug\net7.0\ref\RegionApp.dll

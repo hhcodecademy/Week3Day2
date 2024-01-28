@@ -1,0 +1,15 @@
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\ListApp\bin\Debug\net7.0\ListApp.exe
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\ListApp\bin\Debug\net7.0\ListApp.deps.json
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\ListApp\bin\Debug\net7.0\ListApp.runtimeconfig.json
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\ListApp\bin\Debug\net7.0\ListApp.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\ListApp\bin\Debug\net7.0\ListApp.pdb
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\ListApp\obj\Debug\net7.0\ListApp.csproj.AssemblyReference.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\ListApp\obj\Debug\net7.0\ListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\ListApp\obj\Debug\net7.0\ListApp.AssemblyInfoInputs.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\ListApp\obj\Debug\net7.0\ListApp.AssemblyInfo.cs
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\ListApp\obj\Debug\net7.0\ListApp.csproj.CoreCompileInputs.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\ListApp\obj\Debug\net7.0\ListApp.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\ListApp\obj\Debug\net7.0\refint\ListApp.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\ListApp\obj\Debug\net7.0\ListApp.pdb
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\ListApp\obj\Debug\net7.0\ListApp.genruntimeconfig.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\ListApp\obj\Debug\net7.0\ref\ListApp.dll

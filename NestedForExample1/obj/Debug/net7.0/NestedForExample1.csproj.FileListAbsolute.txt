@@ -1,0 +1,15 @@
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\NestedForExample1\bin\Debug\net7.0\NestedForExample1.exe
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\NestedForExample1\bin\Debug\net7.0\NestedForExample1.deps.json
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\NestedForExample1\bin\Debug\net7.0\NestedForExample1.runtimeconfig.json
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\NestedForExample1\bin\Debug\net7.0\NestedForExample1.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\NestedForExample1\bin\Debug\net7.0\NestedForExample1.pdb
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\NestedForExample1\obj\Debug\net7.0\NestedForExample1.csproj.AssemblyReference.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\NestedForExample1\obj\Debug\net7.0\NestedForExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\NestedForExample1\obj\Debug\net7.0\NestedForExample1.AssemblyInfoInputs.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\NestedForExample1\obj\Debug\net7.0\NestedForExample1.AssemblyInfo.cs
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\NestedForExample1\obj\Debug\net7.0\NestedForExample1.csproj.CoreCompileInputs.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\NestedForExample1\obj\Debug\net7.0\NestedForExample1.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\NestedForExample1\obj\Debug\net7.0\refint\NestedForExample1.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\NestedForExample1\obj\Debug\net7.0\NestedForExample1.pdb
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\NestedForExample1\obj\Debug\net7.0\NestedForExample1.genruntimeconfig.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\NestedForExample1\obj\Debug\net7.0\ref\NestedForExample1.dll

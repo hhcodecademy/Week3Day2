@@ -1,0 +1,15 @@
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\TwoDimentionArrayApp\bin\Debug\net7.0\TwoDimentionArrayApp.exe
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\TwoDimentionArrayApp\bin\Debug\net7.0\TwoDimentionArrayApp.deps.json
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\TwoDimentionArrayApp\bin\Debug\net7.0\TwoDimentionArrayApp.runtimeconfig.json
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\TwoDimentionArrayApp\bin\Debug\net7.0\TwoDimentionArrayApp.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\TwoDimentionArrayApp\bin\Debug\net7.0\TwoDimentionArrayApp.pdb
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\TwoDimentionArrayApp\obj\Debug\net7.0\TwoDimentionArrayApp.csproj.AssemblyReference.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\TwoDimentionArrayApp\obj\Debug\net7.0\TwoDimentionArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\TwoDimentionArrayApp\obj\Debug\net7.0\TwoDimentionArrayApp.AssemblyInfoInputs.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\TwoDimentionArrayApp\obj\Debug\net7.0\TwoDimentionArrayApp.AssemblyInfo.cs
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\TwoDimentionArrayApp\obj\Debug\net7.0\TwoDimentionArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\TwoDimentionArrayApp\obj\Debug\net7.0\TwoDimentionArrayApp.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\TwoDimentionArrayApp\obj\Debug\net7.0\refint\TwoDimentionArrayApp.dll
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\TwoDimentionArrayApp\obj\Debug\net7.0\TwoDimentionArrayApp.pdb
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\TwoDimentionArrayApp\obj\Debug\net7.0\TwoDimentionArrayApp.genruntimeconfig.cache
+C:\Users\huseyn.hasanli\Desktop\PB501Projects\Week3Day2\TwoDimentionArrayApp\obj\Debug\net7.0\ref\TwoDimentionArrayApp.dll
